@@ -1,0 +1,33 @@
+{
+	"background_color": "#3b5998",
+	"description" : "Tips: Calculates tips and account's bill total per person every time you need",
+	"display": "standalone",
+	"icons": [
+		{
+			"sizes": "192x192",
+			"src": "assets/img/android-chrome-192x192.png",
+			"type": "image/png"
+		},
+		{
+			"sizes": "512x512",
+			"src": "assets/img/android-chrome-512x512.png",
+			"type": "image/png"
+		},
+		{
+			"purpose" : "maskable",
+			"sizes": "512x512",
+			"src": "assets/img/android-chrome-512x512.png",
+			"type": "image/png"
+		}
+	],
+	"lang" : "en-US",
+	"name": "Tips Calculator",
+	"prefer_related_applications" : true,
+	"related_applications": [{
+		"platform": "web",
+		"url": "https://m.dctprime.com/tips_calculator/v0.0"
+	}],
+	"short_name": "Tips Calculator",
+	"start_url": "/tips_calculator/v0.0/",
+	"theme_color": "#3b5998"
+}
